@@ -1,7 +1,7 @@
 <h2>Week 3 - WordPress CMS & Group Interviews</h2>
 
 <h3>Learning Activities & Resources</h3>
-<p>This week, I focused on setting up my WordPress site for my startup hosted on AWS Lightsail (Same as my joomla site). I also participated in a group formation exercise that involved conducting round-robin style interviews with classmates to identify potential group members for our major project.(assignment 2 in cp3402)</p>
+<p>This week, I focused on setting up my WordPress site for my startup hosted on AWS Lightsail (Same as my joomla site). I also participated in a group formation exercise that involved conducting round-robin style interviews with classmates to identify potential group members for assignment 2 in cp3402</p>
 <a href="https://wordpress.org/">https://wordpress.org/</a>
 
 <a href="https://www.linkedin.com/learning/wordpress-essential-training-2/526317?u=2223545">https://www.linkedin.com/learning/wordpress-essential-training-2/526317?u=2223545</a>
